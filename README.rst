@@ -20,7 +20,7 @@ Releases
 	*	- 2023-11-28
 		- `LLVM 17.0.6 <https://github.com/vovkos/llvm-package-windows/releases/llvm-17.0.6>`_
 		- `Clang 17.0.6 <https://github.com/vovkos/llvm-package-windows/releases/clang-17.0.6>`_
-		- The latest official LLVM release
+		- The latest official LLVM release 
 
 	*	- 2023-06-14
 		- `LLVM 16.0.6 <https://github.com/vovkos/llvm-package-windows/releases/llvm-16.0.6>`_
