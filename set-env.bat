@@ -184,7 +184,7 @@ set LLVM_RELEASE_NAME=llvm-%LLVM_VERSION%-windows-%TARGET_CPU%-%TOOLCHAIN%-%CRT%
 set LLVM_RELEASE_FILE=%LLVM_RELEASE_NAME%.7z
 set LLVM_RELEASE_DIR=%WORKING_DIR%\%LLVM_RELEASE_NAME%
 set LLVM_RELEASE_DIR=%LLVM_RELEASE_DIR:\=/%
-set LLVM_RELEASE_URL=https://github.com/vovkos/llvm-package-windows/releases/download/%LLVM_RELEASE_TAG%/%LLVM_RELEASE_FILE%
+set LLVM_RELEASE_URL=https://github.com/BrandonKi/llvm-package-windows/releases/download/%LLVM_RELEASE_TAG%/%LLVM_RELEASE_FILE%
 
 perl compare-versions.pl %LLVM_VERSION% 15.0.0
 if %errorlevel% == -1 set LLVM_CMAKE_DOWNLOAD_URL=
