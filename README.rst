@@ -1,11 +1,6 @@
 LLVM packages for Windows
 =========================
 
-.. image:: https://github.com/vovkos/llvm-package-windows/actions/workflows/ci.yml/badge.svg
-	:target: https://github.com/vovkos/llvm-package-windows/actions/workflows/ci.yml
-.. image:: https://img.shields.io/badge/donate-@jancy.org-blue.svg
-	:align: right
-	:target: http://jancy.org/donate.html?donate=llvm-package
 
 Releases
 --------
